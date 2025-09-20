@@ -57,4 +57,4 @@ uvicorn app.main:app --reload
 
 API will be available at:
  
-http://127.0.0.1:8000/query?q=show+me+all+users
+http://127.0.0.1:8000/docs
